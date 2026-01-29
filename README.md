@@ -1,2 +1,2 @@
 # aps-html
-Repositório com três páginas HTML para a APS da faculdade.
+Projeto desenvolvido com foco em praticar e demonstrar o uso de recursos nativos do HTML, sem frameworks ou bibliotecas externas.
